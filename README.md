@@ -10,7 +10,7 @@ This enclosure is optimized for:
 
 ---
 
-![Raspberry Pi 4B Case Render](docs/pi_case.png)
+![Raspberry Pi 4B Case Render](pi_case.png)
 
 ---
 
